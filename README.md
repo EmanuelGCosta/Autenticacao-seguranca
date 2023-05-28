@@ -17,14 +17,13 @@
 
 ## Uso
 
-<div align="center">
-    <p>A seguir um exemplo de como os dados do usuário são salvos no banco de dados e um pequeno vídeo exemplo da usabilidade do site: </p>
-    <p>
-        <img src="assets\Database-pic.png"/>
-    </p>
-</div>
-                                                                 
-https://github.com/EmanuelGCosta/Autenticacao-seguranca/assets/99223358/c62e019b-8a12-4eaa-b867-30e28c763d11
+![Database-pic](https://github.com/EmanuelGCosta/Autenticacao-seguranca/assets/99223358/861aea84-5134-4ab3-8dea-7e17f73cb2c4)![](https://github.com/EmanuelGCosta/Autenticacao-seguranca/assets/99223358/bdd1cb53-966d-40a8-a36d-8ba9af5baaf0)
+
+
+                                  
+
+                    
+
                                                                  
 <div align="center">
     <p>• Registra-se • Faça login</p>
