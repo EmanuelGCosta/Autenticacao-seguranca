@@ -22,15 +22,12 @@
     <p>
         <img src="assets\Database-pic.png" width="400px" height="215"/>
         <video width="400" autoplay muted>
-            <source src="assets\Secrets - Google Chrome 2023-05-27 00-42-46.mp4" type="video/mp4">
+            <source src="assets\video-preview.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </p>
 </div>
 
-
-
-<!-- Acesse a aplicação em seu navegador através do endereço `http://localhost:3000`. A partir daí, você pode realizar as seguintes ações: -->
 <div align="center">
     <p>• Registra-se • Faça login</p>
     <p>• Compartilhe seus segredos • Visualize segredos de outras pessoas</p>
