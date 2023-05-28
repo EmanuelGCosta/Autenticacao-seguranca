@@ -1,12 +1,11 @@
 require("dotenv").config();
 const mongo = require("mongoose");
-
+const passportLocalMongoose = require("passport-local-mongoose");
 
 
 module.exports = class {
     constructor() {
-        this.bcrypt = require("bcrypt");
-        
+
         main().catch(err => console.log(err));
 
         async function main() {
@@ -14,40 +13,22 @@ module.exports = class {
         }
 
         const userSchema = new mongo.Schema({
-            email: String,
-            password: String
+            username: String,
+            password: String,
+            secret: String
         })
 
-
-
+        userSchema.plugin(passportLocalMongoose);
 
         this.User = mongo.model("User", userSchema);
     }
 
-    registrarUsuario(newEmail, newPassword) {
-        const saltRound = 10;
-
-        this.bcrypt.hash(newPassword, saltRound, (err, hash) => {
-
-            if (!err) {
-                const newUser = new this.User({
-                    email: newEmail,
-                    password: hash
-                });
-
-                newUser.save()
-                    .catch((err) => {
-                        return err
-                    });
-            } else {
-                console.log("Ocorreu um erro!" + err)
-            }
-        })
-
-    }
-
-    encontrarUsuario(emailUsuario) {
-        return this.User.findOne({ email: emailUsuario })
+    encontrarUsuario(id = "") {
+        if (id === "") {
+            return this.User.find({"secret": {$ne: null}})
+        } else {
+            return this.User.findOne({ _id: id })
+        }
     }
 
 }

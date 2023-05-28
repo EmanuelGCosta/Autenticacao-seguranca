@@ -13,4 +13,23 @@ body {
   font-size: 2rem;
   color: #fff;
   background-color: #000;
+  border-radius: 10px;
+}
+
+.text {
+  padding-top: 1rem;
+  text-align: center;
+  font-size: 2rem;
+  color: #5b5454;
+  border-radius: 10px;
+  word-wrap: break-word;
+}
+
+.submit {
+  display: flex;
+  justify-content: space-between;
+
+}
+.submit p{
+  color: red;
 }
