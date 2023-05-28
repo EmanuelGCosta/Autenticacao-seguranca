@@ -22,7 +22,7 @@
     <p>
         <img src="assets\Database-pic.png" width="400px" height="215"/>
         <video width="400" autoplay muted>
-            <source src="assets\video-preview.mp4" type="video/mp4">
+            <source src="assets\site-sample.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </p>
@@ -62,7 +62,7 @@
 ```
     npm install
 ```
-3. Inicie o servidor 
+3. Inicie o servidor.
 ```
     node app.js
 ```
