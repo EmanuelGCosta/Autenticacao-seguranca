@@ -20,14 +20,12 @@
 <div align="center">
     <p>A seguir um exemplo de como os dados do usuário são salvos no banco de dados e um pequeno vídeo exemplo da usabilidade do site: </p>
     <p>
-        <img src="assets\Database-pic.png" width="400px" height="215"/>
-        <video width="400" autoplay muted>
-            <source src="assets\site-sample.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
+        <img src="assets\Database-pic.png"/>
     </p>
 </div>
-
+                                                                 
+https://github.com/EmanuelGCosta/Autenticacao-seguranca/assets/99223358/c62e019b-8a12-4eaa-b867-30e28c763d11
+                                                                 
 <div align="center">
     <p>• Registra-se • Faça login</p>
     <p>• Compartilhe seus segredos • Visualize segredos de outras pessoas</p>
