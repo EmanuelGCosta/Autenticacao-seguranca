@@ -24,13 +24,13 @@
     </p>
 </div>
                                           
-                                                                 
+https://github.com/EmanuelGCosta/Autenticacao-seguranca/assets/99223358/303b6dd0-d4d9-43dd-8f86-e7e4b5f7d7d1                                                                 
 <div align="center">
     <p>• Registra-se • Faça login</p>
     <p>• Compartilhe seus segredos • Visualize segredos de outras pessoas</p>
 </div>
 
-https://github.com/EmanuelGCosta/Autenticacao-seguranca/assets/99223358/303b6dd0-d4d9-43dd-8f86-e7e4b5f7d7d1
+
 
 <h2 id="tech">Tecnologias</h2>
 
