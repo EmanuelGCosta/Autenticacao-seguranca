@@ -17,20 +17,20 @@
 
 ## Uso
 
-![Database-pic](https://github.com/EmanuelGCosta/Autenticacao-seguranca/assets/99223358/861aea84-5134-4ab3-8dea-7e17f73cb2c4)![](https://github.com/EmanuelGCosta/Autenticacao-seguranca/assets/99223358/bdd1cb53-966d-40a8-a36d-8ba9af5baaf0)
-
-
-                                  
-
-                    
-
+<div align="center">
+    <p>A seguir um exemplo de como os dados do usuário são salvos no banco de dados e um pequeno vídeo exemplo da usabilidade do site: </p>
+    <p>
+        <img src="assets\Database-pic.png"/>
+    </p>
+</div>
+                                          
                                                                  
 <div align="center">
     <p>• Registra-se • Faça login</p>
     <p>• Compartilhe seus segredos • Visualize segredos de outras pessoas</p>
 </div>
 
-
+https://github.com/EmanuelGCosta/Autenticacao-seguranca/assets/99223358/303b6dd0-d4d9-43dd-8f86-e7e4b5f7d7d1
 
 <h2 id="tech">Tecnologias</h2>
 
