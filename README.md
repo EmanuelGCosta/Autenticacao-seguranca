@@ -18,7 +18,7 @@
 ## Funcionalidades
 
 <div align="center">
-    <p>A seguir um exemplo de como os dados do usuário são salvos no banco de dados e um pequeno vídeo exemplo da usabilidade do site: </p>
+    <p>A seguir, um exemplo de como os dados do usuário são salvos no banco de dados e um pequeno vídeo exemplo da usabilidade do site: </p>
     <p>
         <img src="assets\Database-pic.png"/>
     </p>
