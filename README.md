@@ -15,7 +15,7 @@
 >
 >O projeto foi feito e pensado para ser bem seguro, contendo `Bcrypt` como algoritmo de `hash com salt` para armazenar as senhas dos usuários de uma forma que seja impossível de descriptografar
 
-## Uso
+## Funcionalidades
 
 <div align="center">
     <p>A seguir um exemplo de como os dados do usuário são salvos no banco de dados e um pequeno vídeo exemplo da usabilidade do site: </p>
