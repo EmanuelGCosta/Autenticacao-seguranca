@@ -65,8 +65,6 @@ https://github.com/EmanuelGCosta/Autenticacao-seguranca/assets/99223358/303b6dd0
 ```
 4. Acesse a aplicação em seu navegador através do endereço `http://localhost:3000`.
 
+# Curso: "The complete web development bootcamp" pela Dr. Angela Yu
 
-# Ressalvas
-## Curso: "The complete web development bootcamp" pela Dr. Angela Yu
 
-Nesse projeto não fiz nenhum HTML e CSS das páginas, o mesmos já foram fornecidos pelo curso para eu poder apenas me concentrar em realizar a autenticação e segurança do usuário com exceção de modificações e adições que eu mesmo fiz.
