@@ -11,7 +11,7 @@
 
 # Descrição do Projeto
 
->Este projeto é um app web construído com Node.js e Express com Passaport como middleware, utilizando autenticação de usuário e banco de dados com MongoDB. O aplicativo permite que os usuários registrem-se, façam login, compartilhem segredos e visualizem segredos de outros usuários de forma 100% anônima.
+>Este projeto é um app web construído com Node e Express com Passaport como middleware, utilizando autenticação de usuário e banco de dados com MongoDB. O aplicativo permite que os usuários registrem-se, façam login, compartilhem segredos e visualizem segredos de outros usuários de forma 100% anônima.
 >
 >O projeto foi feito e pensado para ser bem seguro, contendo `Bcrypt` como algoritmo de `hash com salt` para armazenar as senhas dos usuários de uma forma que seja impossível de descriptografar
 
