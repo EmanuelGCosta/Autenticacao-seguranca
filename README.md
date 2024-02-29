@@ -46,7 +46,7 @@ https://github.com/EmanuelGCosta/Autenticacao-seguranca/assets/99223358/303b6dd0
 
 ### Pré-requisitos
 
-- Node e npm
+- Node
 
 ### Instalação
 
